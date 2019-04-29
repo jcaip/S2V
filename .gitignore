@@ -1,0 +1,4 @@
+TFRecords/*
+results/*
+*/__pycache__/*
+src/ops/__pycache__/

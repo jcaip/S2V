@@ -3,7 +3,7 @@ RESULTS_HOME="results"
 MDL_CFGS="model_configs"
 GLOVE_PATH="dictionaries"
 
-DATA_DIR="data/BC/TFRecords"
+DATA_DIR="TFRecords"
 NUM_INST=45786400 # Number of sentences
 
 #DATA_DIR="data/BC_UMBC/TFRecords"
